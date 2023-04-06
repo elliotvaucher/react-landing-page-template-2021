@@ -33,7 +33,7 @@
     "img": "/assets/images/cover.jpg",
     "primaryAction": {
       "text": "Get started",
-      "href": "# // link to your app"
+      "href": "#"
     },
     "secondaryAction": {
       "text": "Email us",
