@@ -27,58 +27,68 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "title": "Design better ideas with",
+    "subtitle": "Iterator",
+    "description": "We all have good ideas, don't we? But how do we make sure that they are good enough to be presented to investors? Iterator is a platform that helps you design better ideas, by providing you with the tools to host, score, develop and share your ideas.",
+    "img": "/assets/images/cover.jpg",
     "primaryAction": {
       "text": "Get started",
-      "href": "#"
+      "href": "# // link to your app"
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "href": "mailto:info@iterator.ch?subject=I want to know more about Iterator!"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Host, Score, Develop & Share ideas",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
-        "img": "/assets/images/product1.jpg"
+        "title": "Hosting",
+        "description": "Keep all your ideas in the same place. Host your ideas on our secured servers.",
+        "img": "/assets/images/product1.png"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
-        "img": "/assets/images/product2.jpg"
+        "title": "Scoring",
+        "description": "Evaluate the quality of your ideas along several dimensions such as originality, feasibility, impact, and compare it to others. ",
+        "img": "/assets/images/product2.png"
+      },
+      {
+        "title": "Developing",
+        "description": "Use our cutting-edge AI tools to iterate around your ideas until they are mature enough to be presented to investors.",
+        "img": "/assets/images/product3.png"
+      },
+      {
+        "title": "Sharing",
+        "description": "Connect with other innovators, contribute to their ideas, and share yours with the rest of the world, ",
+        "img": "/assets/images/product4.png"
       }
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Incredible features ",
+    "subtitle": "Your ideas deserve the best tools",
+    "description": "Discover our home-made and patended innovations to help you make the most out of your ideas.",
     "items": [
       {
-        "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
-        "icon": "/assets/images/react.png"
+        "name": "Ideas matching",
+        "description": "Our ideas matching algorithm automatically scores the similarity between ideas, giving you the opportunity to create matches with other like-minded innovators. ",
+        "icon": "/assets/images/aperture.svg"
       },
       {
-        "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
-        "icon": "/assets/images/tailwindcss.svg"
+        "name": "Git-like contributions",
+        "description": "When a match is created, you have the opportunity to contribute to other’s ideas, in a Git-like manner. ",
+        "icon": "/assets/images/git-merge.svg"
       },
       {
-        "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
-        "icon": "/assets/images/nextjs.svg"
+        "name": "AI-powered idea prototyping",
+        "description": "Our AI powered tools give you superpowers to bring your ideas to the next level.",
+        "icon": "/assets/images/cpu.svg"
       },
       {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
-        "icon": "/assets/images/ts.png"
+        "name": "Data-driven assesment",
+        "description": "Our data-driven assesment tools allow you to evaluate the quality of your ideas along several dimensions. ",
+        "icon": "/assets/images/barchart.svg"
       }
     ]
   },
@@ -145,9 +155,9 @@
       }
     ],
     "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
-      "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+      "github": "https://github.com/elliotvaucher",
+      "twitter": "https://twitter.com/ElliotVaucher",
+      "linkedin": "https://www.linkedin.com/in/elliot-vaucher-a66b71189/"
     }
   }
 }
